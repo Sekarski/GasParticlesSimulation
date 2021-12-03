@@ -1,0 +1,3 @@
+#include "../include/Dessinable.h"
+
+//mmmh... pas besoin de définir la méthode virtuelle pure dessine en fait...
